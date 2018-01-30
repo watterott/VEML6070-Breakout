@@ -11,9 +11,3 @@ Breakout with Vishay VEML6070 digital UV Light Sensor.
 
 ## Shop
 * [VEML6070-Breakout](http://www.watterott.com/en/VEML6070-Breakout-UV-light-Sensor)
-
-
-## Hardware and Software
-* [Schematics + Layout](https://github.com/watterott/VEML6070-Breakout/tree/master/hardware)
-* [Arduino Example](https://github.com/watterott/VEML6070-Breakout/tree/master/software)
-* Arduino Library and Examples: [VEML6040+VEML6070](https://github.com/embeddedadventures/MOD-1024)
