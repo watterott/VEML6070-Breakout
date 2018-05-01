@@ -7,7 +7,4 @@ Breakout with Vishay VEML6070 digital UV Light Sensor.
 * Detects UV light
 * TWI/I2C Interface (address 0x38 and 0x39)
 * 3.3V - 5V Power Supply and Logic Level
-
-
-## Shop
-* [VEML6070-Breakout](http://www.watterott.com/en/VEML6070-Breakout-UV-light-Sensor)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/sensors/veml6070/)**
