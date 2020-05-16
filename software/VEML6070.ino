@@ -15,6 +15,9 @@
     Rset=270k -> 1T=112.5ms ->   5.625 uW/cm²/step
     Rset=300k -> 1T=125.0ms ->   6.250 uW/cm²/step
     Rset=600k -> 1T=250.0ms ->  12.500 uW/cm²/step
+
+  Example source code free to use.
+  Further information: https://learn.watterott.com/license/
 */
 
 #include <Wire.h>
